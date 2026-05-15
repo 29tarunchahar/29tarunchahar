@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Tarun Chahar
 
-<!--
-**29tarunchahar/29tarunchahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Aspiring Data Scientist  
+🌱 Currently Learning Machine Learning & Data Science  
+🚀 Building Python & Streamlit Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+- Git & GitHub
+
+---
+
+## 📌 Current Project
+
+🎓 Student Exam Score Prediction using Machine Learning
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/29tarunchahar
