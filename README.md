@@ -27,3 +27,4 @@
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/29tarunchahar
+- Linkedin: https://www.linkedin.com/in/29-tarun-chahar/
